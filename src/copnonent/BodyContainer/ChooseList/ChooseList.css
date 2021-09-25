@@ -1,0 +1,21 @@
+.items{
+   max-height:70x;
+    background-color:rgba(255, 0, 0, 0.431);
+    border-radius: 5px;
+    margin: 10px auto;
+    display: flex;
+    transition: transform 1s;
+
+}
+.items:hover{
+    transform: scale(1.07);
+}
+
+.items div img{
+      max-height:70px; 
+      border-radius: 5px;
+      margin-right: 10px;
+}
+.items div h3, h5{
+    margin: 0 auto;
+}

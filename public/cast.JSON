@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Úrsula Corberó",
+        "id":1,
+        "cast": "Tokyo",
+        "religion": "Spanish actress",
+        "age": 32,
+        "charges": 1800000,
+        "img": "https://m.media-amazon.com/images/M/MV5BMjBkMTc4ODctY2U1NC00NjQzLTliYTItZDM1MTkwNWNmODRjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg "
+    },
+    {
+        "name": "Álvaro Morte",
+        "id": 2,
+        "cast": "Professor",
+        "religion": "Spanish actress",
+        "age": 46,
+        "charges": 2400000,
+        "img": "https://pbs.twimg.com/profile_images/1244401815153770499/RiG5BeDy_400x400.jpg "
+    },
+    {
+        "name": "Itziar Ituño",
+        "id": 3,
+        "cast": "Raquel",
+        "religion": " Spanish actress",
+        "age": 47,
+        "charges": 1600000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Itziar_Itu%C3%B1o_2017.jpg/288px-Itziar_Itu%C3%B1o_2017.jpg "
+    },
+    {
+        "name": "Miguel Herrán",
+        "id": 4,
+        "cast": "Rio",
+        "religion": "Spanish actor",
+        "age": 25,
+        "charges": 1000000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJc3dVIoxoImx3dOTni3G-W9h587jOICHkkw&usqp=CAU "
+    },
+    {
+        "name": "Jaime Lorente",
+        "id": 5,
+        "cast": "Denvar",
+        "religion": "Spanish actor",
+        "age": 29,
+        "charges": 1300000,
+        "img": "https://pbs.twimg.com/media/EYBKYQdX0AYzKgQ.jpg "
+    },
+    {
+        "name": "Pedro Alonso",
+        "id": 6,
+        "cast": "Berlin",
+        "religion": "Spanish actor",
+        "age": 50,
+        "charges": 1800000,
+        "img": "https://wallpaperaccess.com/full/2614504.jpg "
+    },
+    {
+        "name": "Esther Acebo",
+         "id":7,
+        "cast": "Monica",
+        "religion": "Spanish actor",
+        "age": 38,
+        "charges": 1300000,
+        "img": "https://celebsspy.com/wp-content/uploads/2020/12/Esther-Acebo.jpg "
+    },
+    {
+        "name": "Alba Flores",
+        "id": 8,
+        "cast": "Nairobi",
+        "religion": "Spanish actor",
+        "age": 34,
+        "charges": 1900000,
+        "img": "https://pbs.twimg.com/profile_images/1395806613647368207/k5tVc3MO_400x400.jpg "
+    },
+    {
+        "name": "Darko Perić",
+        "id": 9,
+        "cast": "Helsinki",
+        "religion": "Serbian actor",
+        "age": 44,
+        "charges": 1550000,
+        "img": "https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2020/12/Darko-Peric.jpg "
+    },
+    {
+        "name": "Enrique Arce",
+        "id": 10,
+        "cast": "Arturo",
+        "religion": "Spanish television actor",
+        "age": 48,
+        "charges": 1400000,
+        "img": "https://www.famousbirthdays.com/faces/arce-enrique-image.jpg "
+    },
+    {
+        "name": "Hovik Keuchkerian",
+        "id": 11,
+        "cast": "Bogota",
+        "religion": "Spanish actor",
+        "age": 48,
+        "charges": 1350000,
+        "img": " https://i1.sndcdn.com/artworks-000205224092-p1uzuq-t500x500.jpg"
+    },
+    {
+        "name": "María Pedraza",
+        "id": 12,
+        "cast": "Alison Parker",
+        "religion": "Spanish actress",
+        "age": 25,
+        "charges": 1000000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEEmuVCAWWtQavRU1_M60H0Mi58VJDCEWvw&usqp=CAU "
+    },
+    {
+        "name": "Fernando Soto",
+        "id": 13,
+        "cast": "Angel Rubio",
+        "religion": "Spanish actor",
+        "age": 52,
+        "charges": 1200000,
+        "img": "https://www.thehandbook.com/cdn-cgi/image/width=300,height=300,fit=cover,q=85/https://files.thehandbook.com/uploads/2021/04/79331851-528347967783245-7915594060461506560-n.jpg "
+    },
+    {
+        "name": "Juan Fernández",
+        "id": 14,
+        "cast": "Colonel",
+        "religion": "Spanish actor",
+        "age": 64,
+        "charges": 1450000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03wX_yAZMHXPV9DvBrs1jVoG1E0qF9a6LdZaYlDZK4_TReYXdd_uN8y875BQs9W2uVMk&usqp=CAU "
+    },
+    {
+        "name": "Roberto García Ruiz",
+        "id": 15,
+        "cast": "Oslo",
+        "religion": "Spanish actor",
+        "age": 47,
+        "charges": 1050000,
+        "img": "https://notednames.com/ImgProfile/pvv@@_Roberto%20Garcia%20Ruiz.jpg "
+    },
+    {
+        "name": "Anna Gras",
+        "id": 16,
+        "cast": "Mercedes",
+        "religion": "Spanish actor",
+        "age": 40,
+        "charges": 950000,
+        "img": "https://superstarsbio.com/wp-content/uploads/2020/05/Anna-Gras.jpg "
+    },
+    {
+        "name": "Fran Morcillo",
+        "id": 17,
+        "cast": "Palbo",
+        "religion": "Spanish actor",
+        "age": 26,
+        "charges": 1100000,
+        "img": "https://notednames.com/ImgProfile/pvv@m_Fran%20Morcillo.jpg "
+    },
+    {
+        "name": "Kiti Mánver",
+        "id": 18,
+        "cast": "Marivi",
+        "religion": "Spanish actor",
+        "age": 68,
+        "charges": 1250000,
+        "img": "https://pbs.twimg.com/profile_images/1303367352839532545/4ZkDqcR-.jpg "
+    },
+    {
+        "name": "Clara Alvarado",
+        "id": 19,
+        "cast": "Ariana",
+        "religion": "Spanish actor",
+        "age": 31,
+        "charges": 1200000,
+        "img": "https://pbs.twimg.com/profile_images/1298999632769384458/ZVOmnRe8_400x400.jpg "
+    }
+]

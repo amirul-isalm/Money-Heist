@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+ background-image: url("../src/poster.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+
+ 
+}
+
+

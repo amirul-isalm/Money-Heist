@@ -1,0 +1,42 @@
+.cart{
+    background-color: hsla(268, 16%, 16%, 0.883);
+color: white;
+padding: 15px;
+border-radius: 10px;
+transition:transform 1s ;
+}
+.cart:hover{
+    transform: scale(1.07);
+}
+.cart img{
+    width: 50%;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.details p span{
+    font-weight: bolder;
+  
+}
+.details{
+  
+   
+}
+.details p{
+    margin: 5px auto;
+}
+button{
+     background-color: goldenrod;
+     padding: 8px 30px;
+     border-radius: 10px;
+     border: 1px solid rgba(0, 0, 0, 0.397);
+     font-size: 15px;
+     font-weight: 700;
+ }
+.socialIcon{
+     font-size: 30px;
+     color: burlywood;
+     margin: 15px auto;
+ }
+.fontIcon a{
+     margin: 10px 10px 0px 10px;
+ }
